@@ -1,0 +1,3 @@
+#!/bin/bash
+pim4/src/app-make
+pim4/bin/pim4.exe

@@ -1,0 +1,3 @@
+#!/bin/bash
+reset
+gcc -o pim4/bin/pim4.exe pim4/src/main.c pim4/src/helpers.c pim4/src/screens.c pim4/src/printer.c pim4/src/db.c
